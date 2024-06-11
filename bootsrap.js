@@ -7,3 +7,5 @@ function bootstrap(app,express){
     app.use('*',(req,res)=>{res.json({message:"Page Not Found"})})
 }
 export default bootstrap;
+
+// app.use('*',(req,res)=>{res.json({message:"Page Not Found"})})
