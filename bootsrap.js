@@ -9,3 +9,5 @@ function bootstrap(app,express){
 }
 export default bootstrap;
 
+// hello from the other side
+// we need to learn react to get a good job
